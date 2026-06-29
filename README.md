@@ -29,6 +29,7 @@
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Alfiya-AT/LeetCode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Alfiya-AT/LeetCode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Alfiya-AT/LeetCode/tree/master/2373-largest-local-values-in-a-matrix) |
+| [3131-find-the-integer-added-to-array-i](https://github.com/Alfiya-AT/LeetCode/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3731-find-missing-elements](https://github.com/Alfiya-AT/LeetCode/tree/master/3731-find-missing-elements) |
 ## Matrix
 |  |
