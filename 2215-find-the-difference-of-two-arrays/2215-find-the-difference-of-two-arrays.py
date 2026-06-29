@@ -6,6 +6,9 @@ class Solution(object):
         :rtype: List[List[int]]
         """
         
+
+        nums1=list(set(nums1))
+        nums2=list(set(nums2))
         answer=[0,0]
         d1=[]
         d2=[]
