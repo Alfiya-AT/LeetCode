@@ -18,6 +18,7 @@
 ## Array
 |  |
 | ------- |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Alfiya-AT/LeetCode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Alfiya-AT/LeetCode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Alfiya-AT/LeetCode/tree/master/2373-largest-local-values-in-a-matrix) |
 ## Matrix
