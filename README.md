@@ -9,6 +9,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Alfiya-AT/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Alfiya-AT/LeetCode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Alfiya-AT/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3340-check-balanced-string](https://github.com/Alfiya-AT/LeetCode/tree/master/3340-check-balanced-string) |
 ## Sorting
 |  |
 | ------- |
