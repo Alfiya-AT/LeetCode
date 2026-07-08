@@ -33,6 +33,7 @@
 ## Array
 |  |
 | ------- |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/Alfiya-AT/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0804-unique-morse-code-words](https://github.com/Alfiya-AT/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Alfiya-AT/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Alfiya-AT/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
