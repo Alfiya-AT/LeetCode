@@ -26,6 +26,7 @@
 | ------- |
 | [0804-unique-morse-code-words](https://github.com/Alfiya-AT/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Alfiya-AT/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2032-two-out-of-three](https://github.com/Alfiya-AT/LeetCode/tree/master/2032-two-out-of-three) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Alfiya-AT/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2325-decode-the-message](https://github.com/Alfiya-AT/LeetCode/tree/master/2325-decode-the-message) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Alfiya-AT/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -38,6 +39,7 @@
 | [0804-unique-morse-code-words](https://github.com/Alfiya-AT/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Alfiya-AT/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Alfiya-AT/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2032-two-out-of-three](https://github.com/Alfiya-AT/LeetCode/tree/master/2032-two-out-of-three) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Alfiya-AT/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Alfiya-AT/LeetCode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Alfiya-AT/LeetCode/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -74,4 +76,8 @@
 |  |
 | ------- |
 | [2965-find-missing-and-repeated-values](https://github.com/Alfiya-AT/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2032-two-out-of-three](https://github.com/Alfiya-AT/LeetCode/tree/master/2032-two-out-of-three) |
 <!---LeetCode Topics End-->
