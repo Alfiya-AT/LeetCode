@@ -6,13 +6,10 @@ class Solution(object):
         :rtype: bool
         """
         
-        n=len(words)
-        j=0
-        if n>len(s) or len(s)>n:
+        if len(s)!=len(words):
             return False
-        for i in s:
-            if j<n and i == words[j][0]:
-                j+=1
-            else:
+
+        for i,c in enumerate(s):
+            if words[i][0]!=c:
                 return False
         return True
