@@ -14,6 +14,7 @@
 | [2325-decode-the-message](https://github.com/Alfiya-AT/LeetCode/tree/master/2325-decode-the-message) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Alfiya-AT/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Alfiya-AT/LeetCode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Alfiya-AT/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3340-check-balanced-string](https://github.com/Alfiya-AT/LeetCode/tree/master/3340-check-balanced-string) |
 ## Sorting
 |  |
@@ -34,6 +35,7 @@
 | [2325-decode-the-message](https://github.com/Alfiya-AT/LeetCode/tree/master/2325-decode-the-message) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Alfiya-AT/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2965-find-missing-and-repeated-values](https://github.com/Alfiya-AT/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Alfiya-AT/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Alfiya-AT/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/Alfiya-AT/LeetCode/tree/master/3731-find-missing-elements) |
 ## Array
