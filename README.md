@@ -6,6 +6,7 @@
 | ------- |
 | [0796-rotate-string](https://github.com/Alfiya-AT/LeetCode/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/Alfiya-AT/LeetCode/tree/master/0804-unique-morse-code-words) |
+| [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Alfiya-AT/LeetCode/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1768-merge-strings-alternately](https://github.com/Alfiya-AT/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Alfiya-AT/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1844-replace-all-digits-with-characters](https://github.com/Alfiya-AT/LeetCode/tree/master/1844-replace-all-digits-with-characters) |
