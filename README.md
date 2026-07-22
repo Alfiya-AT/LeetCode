@@ -20,6 +20,7 @@
 | [3120-count-the-number-of-special-characters-i](https://github.com/Alfiya-AT/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3340-check-balanced-string](https://github.com/Alfiya-AT/LeetCode/tree/master/3340-check-balanced-string) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Alfiya-AT/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Alfiya-AT/LeetCode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3894-traffic-signal-color](https://github.com/Alfiya-AT/LeetCode/tree/master/3894-traffic-signal-color) |
 ## Sorting
 |  |
@@ -83,11 +84,13 @@
 |  |
 | ------- |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Alfiya-AT/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Alfiya-AT/LeetCode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Simulation
 |  |
 | ------- |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Alfiya-AT/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Alfiya-AT/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Alfiya-AT/LeetCode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3894-traffic-signal-color](https://github.com/Alfiya-AT/LeetCode/tree/master/3894-traffic-signal-color) |
 ## Math
 |  |
