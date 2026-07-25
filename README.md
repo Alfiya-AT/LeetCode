@@ -6,6 +6,7 @@
 | ------- |
 | [0796-rotate-string](https://github.com/Alfiya-AT/LeetCode/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/Alfiya-AT/LeetCode/tree/master/0804-unique-morse-code-words) |
+| [0884-uncommon-words-from-two-sentences](https://github.com/Alfiya-AT/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Alfiya-AT/LeetCode/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Alfiya-AT/LeetCode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1768-merge-strings-alternately](https://github.com/Alfiya-AT/LeetCode/tree/master/1768-merge-strings-alternately) |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0804-unique-morse-code-words](https://github.com/Alfiya-AT/LeetCode/tree/master/0804-unique-morse-code-words) |
+| [0884-uncommon-words-from-two-sentences](https://github.com/Alfiya-AT/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1331-rank-transform-of-an-array](https://github.com/Alfiya-AT/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Alfiya-AT/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2032-two-out-of-three](https://github.com/Alfiya-AT/LeetCode/tree/master/2032-two-out-of-three) |
@@ -118,6 +120,7 @@
 ## Counting
 |  |
 | ------- |
+| [0884-uncommon-words-from-two-sentences](https://github.com/Alfiya-AT/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Alfiya-AT/LeetCode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Alfiya-AT/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Number Theory
