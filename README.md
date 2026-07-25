@@ -19,6 +19,7 @@
 | [2278-percentage-of-letter-in-string](https://github.com/Alfiya-AT/LeetCode/tree/master/2278-percentage-of-letter-in-string) |
 | [2315-count-asterisks](https://github.com/Alfiya-AT/LeetCode/tree/master/2315-count-asterisks) |
 | [2325-decode-the-message](https://github.com/Alfiya-AT/LeetCode/tree/master/2325-decode-the-message) |
+| [2716-minimize-string-length](https://github.com/Alfiya-AT/LeetCode/tree/master/2716-minimize-string-length) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Alfiya-AT/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2788-split-strings-by-separator](https://github.com/Alfiya-AT/LeetCode/tree/master/2788-split-strings-by-separator) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Alfiya-AT/LeetCode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
@@ -48,6 +49,7 @@
 | [2032-two-out-of-three](https://github.com/Alfiya-AT/LeetCode/tree/master/2032-two-out-of-three) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Alfiya-AT/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2325-decode-the-message](https://github.com/Alfiya-AT/LeetCode/tree/master/2325-decode-the-message) |
+| [2716-minimize-string-length](https://github.com/Alfiya-AT/LeetCode/tree/master/2716-minimize-string-length) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Alfiya-AT/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2965-find-missing-and-repeated-values](https://github.com/Alfiya-AT/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Alfiya-AT/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
