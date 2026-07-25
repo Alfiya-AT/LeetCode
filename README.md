@@ -27,6 +27,7 @@
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Alfiya-AT/LeetCode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Alfiya-AT/LeetCode/tree/master/3884-first-matching-character-from-both-ends) |
 | [3894-traffic-signal-color](https://github.com/Alfiya-AT/LeetCode/tree/master/3894-traffic-signal-color) |
+| [3931-check-adjacent-digit-differences](https://github.com/Alfiya-AT/LeetCode/tree/master/3931-check-adjacent-digit-differences) |
 ## Sorting
 |  |
 | ------- |
