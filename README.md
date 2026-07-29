@@ -27,6 +27,7 @@
 | [3120-count-the-number-of-special-characters-i](https://github.com/Alfiya-AT/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3340-check-balanced-string](https://github.com/Alfiya-AT/LeetCode/tree/master/3340-check-balanced-string) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Alfiya-AT/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Alfiya-AT/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Alfiya-AT/LeetCode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Alfiya-AT/LeetCode/tree/master/3884-first-matching-character-from-both-ends) |
 | [3894-traffic-signal-color](https://github.com/Alfiya-AT/LeetCode/tree/master/3894-traffic-signal-color) |
@@ -38,6 +39,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Alfiya-AT/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1859-sorting-the-sentence](https://github.com/Alfiya-AT/LeetCode/tree/master/1859-sorting-the-sentence) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Alfiya-AT/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Alfiya-AT/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Alfiya-AT/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Alfiya-AT/LeetCode/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -142,4 +144,8 @@
 |  |
 | ------- |
 | [0746-min-cost-climbing-stairs](https://github.com/Alfiya-AT/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Alfiya-AT/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
