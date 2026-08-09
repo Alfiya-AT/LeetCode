@@ -93,6 +93,7 @@
 | [3151-special-array-i](https://github.com/Alfiya-AT/LeetCode/tree/master/3151-special-array-i) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Alfiya-AT/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/Alfiya-AT/LeetCode/tree/master/3731-find-missing-elements) |
+| [3917-count-indices-with-opposite-parity](https://github.com/Alfiya-AT/LeetCode/tree/master/3917-count-indices-with-opposite-parity) |
 ## Matrix
 |  |
 | ------- |
