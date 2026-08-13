@@ -31,6 +31,7 @@
 | [2788-split-strings-by-separator](https://github.com/Alfiya-AT/LeetCode/tree/master/2788-split-strings-by-separator) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Alfiya-AT/LeetCode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Alfiya-AT/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3210-find-the-encrypted-string](https://github.com/Alfiya-AT/LeetCode/tree/master/3210-find-the-encrypted-string) |
 | [3340-check-balanced-string](https://github.com/Alfiya-AT/LeetCode/tree/master/3340-check-balanced-string) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Alfiya-AT/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Alfiya-AT/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
