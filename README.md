@@ -36,6 +36,7 @@
 | [3340-check-balanced-string](https://github.com/Alfiya-AT/LeetCode/tree/master/3340-check-balanced-string) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Alfiya-AT/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Alfiya-AT/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3692-majority-frequency-characters](https://github.com/Alfiya-AT/LeetCode/tree/master/3692-majority-frequency-characters) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Alfiya-AT/LeetCode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3856-trim-trailing-vowels](https://github.com/Alfiya-AT/LeetCode/tree/master/3856-trim-trailing-vowels) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Alfiya-AT/LeetCode/tree/master/3884-first-matching-character-from-both-ends) |
@@ -72,6 +73,7 @@
 | [2965-find-missing-and-repeated-values](https://github.com/Alfiya-AT/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Alfiya-AT/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Alfiya-AT/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3692-majority-frequency-characters](https://github.com/Alfiya-AT/LeetCode/tree/master/3692-majority-frequency-characters) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Alfiya-AT/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/Alfiya-AT/LeetCode/tree/master/3731-find-missing-elements) |
 ## Array
@@ -157,6 +159,7 @@
 | [1704-determine-if-string-halves-are-alike](https://github.com/Alfiya-AT/LeetCode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Alfiya-AT/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/Alfiya-AT/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
+| [3692-majority-frequency-characters](https://github.com/Alfiya-AT/LeetCode/tree/master/3692-majority-frequency-characters) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Alfiya-AT/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Number Theory
 |  |
