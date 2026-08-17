@@ -20,6 +20,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Alfiya-AT/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Alfiya-AT/LeetCode/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Alfiya-AT/LeetCode/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Alfiya-AT/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2278-percentage-of-letter-in-string](https://github.com/Alfiya-AT/LeetCode/tree/master/2278-percentage-of-letter-in-string) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Alfiya-AT/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2315-count-asterisks](https://github.com/Alfiya-AT/LeetCode/tree/master/2315-count-asterisks) |
@@ -132,6 +133,7 @@
 |  |
 | ------- |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Alfiya-AT/LeetCode/tree/master/2138-divide-a-string-into-groups-of-size-k) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Alfiya-AT/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Alfiya-AT/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Alfiya-AT/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Alfiya-AT/LeetCode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
