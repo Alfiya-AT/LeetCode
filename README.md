@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Alfiya-AT/LeetCode/tree/master/0125-valid-palindrome) |
+| [0680-valid-palindrome-ii](https://github.com/Alfiya-AT/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/Alfiya-AT/LeetCode/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/Alfiya-AT/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/Alfiya-AT/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
@@ -130,6 +131,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Alfiya-AT/LeetCode/tree/master/0125-valid-palindrome) |
+| [0680-valid-palindrome-ii](https://github.com/Alfiya-AT/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/Alfiya-AT/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0977-squares-of-a-sorted-array](https://github.com/Alfiya-AT/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/Alfiya-AT/LeetCode/tree/master/1768-merge-strings-alternately) |
@@ -196,4 +198,8 @@
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Alfiya-AT/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/Alfiya-AT/LeetCode/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
