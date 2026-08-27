@@ -28,6 +28,7 @@
 | [2315-count-asterisks](https://github.com/Alfiya-AT/LeetCode/tree/master/2315-count-asterisks) |
 | [2325-decode-the-message](https://github.com/Alfiya-AT/LeetCode/tree/master/2325-decode-the-message) |
 | [2351-first-letter-to-appear-twice](https://github.com/Alfiya-AT/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Alfiya-AT/LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Alfiya-AT/LeetCode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2716-minimize-string-length](https://github.com/Alfiya-AT/LeetCode/tree/master/2716-minimize-string-length) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Alfiya-AT/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -152,6 +153,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Alfiya-AT/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/Alfiya-AT/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Alfiya-AT/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Alfiya-AT/LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Alfiya-AT/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Alfiya-AT/LeetCode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Alfiya-AT/LeetCode/tree/master/3884-first-matching-character-from-both-ends) |
@@ -219,6 +221,7 @@
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Alfiya-AT/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Alfiya-AT/LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Binary Search
 |  |
 | ------- |
