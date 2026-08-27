@@ -49,6 +49,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Alfiya-AT/LeetCode/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/Alfiya-AT/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Alfiya-AT/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Alfiya-AT/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Alfiya-AT/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -90,6 +91,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Alfiya-AT/LeetCode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Alfiya-AT/LeetCode/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/Alfiya-AT/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Alfiya-AT/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Alfiya-AT/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Alfiya-AT/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -140,6 +142,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Alfiya-AT/LeetCode/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/Alfiya-AT/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Alfiya-AT/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Alfiya-AT/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Alfiya-AT/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -220,4 +223,12 @@
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Alfiya-AT/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Alfiya-AT/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Alfiya-AT/LeetCode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Alfiya-AT/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
