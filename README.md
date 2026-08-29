@@ -67,6 +67,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Alfiya-AT/LeetCode/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/Alfiya-AT/LeetCode/tree/master/0202-happy-number) |
 | [0804-unique-morse-code-words](https://github.com/Alfiya-AT/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Alfiya-AT/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0929-unique-email-addresses](https://github.com/Alfiya-AT/LeetCode/tree/master/0929-unique-email-addresses) |
@@ -150,6 +151,7 @@
 | [0125-valid-palindrome](https://github.com/Alfiya-AT/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Alfiya-AT/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Alfiya-AT/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/Alfiya-AT/LeetCode/tree/master/0202-happy-number) |
 | [0680-valid-palindrome-ii](https://github.com/Alfiya-AT/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/Alfiya-AT/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0977-squares-of-a-sorted-array](https://github.com/Alfiya-AT/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -171,6 +173,7 @@
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Alfiya-AT/LeetCode/tree/master/0202-happy-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Alfiya-AT/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2413-smallest-even-multiple](https://github.com/Alfiya-AT/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Alfiya-AT/LeetCode/tree/master/2469-convert-the-temperature) |
@@ -241,4 +244,8 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Alfiya-AT/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Alfiya-AT/LeetCode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
