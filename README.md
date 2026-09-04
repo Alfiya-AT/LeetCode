@@ -98,6 +98,7 @@
 | [0075-sort-colors](https://github.com/Alfiya-AT/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Alfiya-AT/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Alfiya-AT/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/Alfiya-AT/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Alfiya-AT/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/Alfiya-AT/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0804-unique-morse-code-words](https://github.com/Alfiya-AT/LeetCode/tree/master/0804-unique-morse-code-words) |
@@ -154,6 +155,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Alfiya-AT/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Alfiya-AT/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Alfiya-AT/LeetCode/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/Alfiya-AT/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0680-valid-palindrome-ii](https://github.com/Alfiya-AT/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/Alfiya-AT/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0977-squares-of-a-sorted-array](https://github.com/Alfiya-AT/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -188,6 +190,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Alfiya-AT/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [2032-two-out-of-three](https://github.com/Alfiya-AT/LeetCode/tree/master/2032-two-out-of-three) |
 | [2351-first-letter-to-appear-twice](https://github.com/Alfiya-AT/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 ## Counting
@@ -233,6 +236,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Alfiya-AT/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/Alfiya-AT/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Alfiya-AT/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Quicksort
 |  |
@@ -252,4 +256,9 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Alfiya-AT/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Alfiya-AT/LeetCode/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/Alfiya-AT/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Alfiya-AT/LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
