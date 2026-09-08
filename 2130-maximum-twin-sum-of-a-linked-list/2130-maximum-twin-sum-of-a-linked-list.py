@@ -1,30 +1,43 @@
-# Definition for singly-linked list.
-# class ListNode(object):
-#     def __init__(self, val=0, next=None):
-#         self.val = val
-#         self.next = next
 class Solution(object):
+
+    def reverseLL(self, node):
+        curr = node
+        prev = None
+
+        while curr != None:
+            temp = curr.next
+            curr.next = prev
+            prev = curr
+            curr = temp
+
+        return prev
+
     def pairSum(self, head):
         """
         :type head: Optional[ListNode]
         :rtype: int
         """
-        l=[]
 
-        while head != None:
-            l.append(head.val)
-            head=head.next
+        # Step 1: Find the middle of the linked list
+        slow = head
+        fast = head
 
-        i=0
-        j=len(l)-1
+        while fast != None and fast.next != None:
+            slow = slow.next
+            fast = fast.next.next
 
-        mx=float('-Inf')
+        # Step 2: Reverse the second half
+        p2 = self.reverseLL(slow)
+        p1 = head
 
-        while i<j:
-            candidate=l[i]+l[j]
-            mx=max(mx,candidate)
+        # Step 3: Find maximum twin sum
+        mx = float('-inf')
 
-            i+=1
-            j-=1
+        while p1 != None and p2 != None:
+            candidate = p1.val + p2.val
+            mx = max(mx, candidate)
+
+            p1 = p1.next
+            p2 = p2.next
 
         return mx
