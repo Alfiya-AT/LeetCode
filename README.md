@@ -279,5 +279,6 @@
 | ------- |
 | [1068-product-sales-analysis-i](https://github.com/Alfiya-AT/LeetCode/tree/master/1068-product-sales-analysis-i) |
 | [1693-daily-leads-and-partners](https://github.com/Alfiya-AT/LeetCode/tree/master/1693-daily-leads-and-partners) |
+| [1795-rearrange-products-table](https://github.com/Alfiya-AT/LeetCode/tree/master/1795-rearrange-products-table) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Alfiya-AT/LeetCode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
