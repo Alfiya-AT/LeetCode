@@ -285,6 +285,7 @@
 ## Database
 |  |
 | ------- |
+| [0627-swap-sex-of-employees](https://github.com/Alfiya-AT/LeetCode/tree/master/0627-swap-sex-of-employees) |
 | [1068-product-sales-analysis-i](https://github.com/Alfiya-AT/LeetCode/tree/master/1068-product-sales-analysis-i) |
 | [1683-invalid-tweets](https://github.com/Alfiya-AT/LeetCode/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/Alfiya-AT/LeetCode/tree/master/1693-daily-leads-and-partners) |
