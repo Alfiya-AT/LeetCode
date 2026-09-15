@@ -288,6 +288,7 @@
 | [0627-swap-sex-of-employees](https://github.com/Alfiya-AT/LeetCode/tree/master/0627-swap-sex-of-employees) |
 | [1068-product-sales-analysis-i](https://github.com/Alfiya-AT/LeetCode/tree/master/1068-product-sales-analysis-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Alfiya-AT/LeetCode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1484-group-sold-products-by-the-date](https://github.com/Alfiya-AT/LeetCode/tree/master/1484-group-sold-products-by-the-date) |
 | [1587-bank-account-summary-ii](https://github.com/Alfiya-AT/LeetCode/tree/master/1587-bank-account-summary-ii) |
 | [1683-invalid-tweets](https://github.com/Alfiya-AT/LeetCode/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/Alfiya-AT/LeetCode/tree/master/1693-daily-leads-and-partners) |
