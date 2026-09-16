@@ -117,6 +117,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Alfiya-AT/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Alfiya-AT/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/Alfiya-AT/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Alfiya-AT/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Alfiya-AT/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Alfiya-AT/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Alfiya-AT/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -244,6 +245,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Alfiya-AT/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Alfiya-AT/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Alfiya-AT/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Alfiya-AT/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Alfiya-AT/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Greedy
 |  |
