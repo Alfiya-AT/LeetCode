@@ -76,6 +76,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Alfiya-AT/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0804-unique-morse-code-words](https://github.com/Alfiya-AT/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Alfiya-AT/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0904-fruit-into-baskets](https://github.com/Alfiya-AT/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0929-unique-email-addresses](https://github.com/Alfiya-AT/LeetCode/tree/master/0929-unique-email-addresses) |
 | [1331-rank-transform-of-an-array](https://github.com/Alfiya-AT/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Alfiya-AT/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -111,6 +112,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/Alfiya-AT/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0804-unique-morse-code-words](https://github.com/Alfiya-AT/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/Alfiya-AT/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
+| [0904-fruit-into-baskets](https://github.com/Alfiya-AT/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0929-unique-email-addresses](https://github.com/Alfiya-AT/LeetCode/tree/master/0929-unique-email-addresses) |
 | [0977-squares-of-a-sorted-array](https://github.com/Alfiya-AT/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Alfiya-AT/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -241,6 +243,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Alfiya-AT/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Alfiya-AT/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Alfiya-AT/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/Alfiya-AT/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Alfiya-AT/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Greedy
 |  |
