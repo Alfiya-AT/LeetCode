@@ -62,6 +62,7 @@
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Alfiya-AT/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1859-sorting-the-sentence](https://github.com/Alfiya-AT/LeetCode/tree/master/1859-sorting-the-sentence) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Alfiya-AT/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Alfiya-AT/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Alfiya-AT/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Alfiya-AT/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Alfiya-AT/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -193,6 +194,7 @@
 | ------- |
 | [0202-happy-number](https://github.com/Alfiya-AT/LeetCode/tree/master/0202-happy-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Alfiya-AT/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Alfiya-AT/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2413-smallest-even-multiple](https://github.com/Alfiya-AT/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Alfiya-AT/LeetCode/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Alfiya-AT/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
@@ -256,6 +258,7 @@
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Alfiya-AT/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Alfiya-AT/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Alfiya-AT/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Alfiya-AT/LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Binary Search
 |  |
