@@ -313,6 +313,7 @@
 | [1587-bank-account-summary-ii](https://github.com/Alfiya-AT/LeetCode/tree/master/1587-bank-account-summary-ii) |
 | [1683-invalid-tweets](https://github.com/Alfiya-AT/LeetCode/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/Alfiya-AT/LeetCode/tree/master/1693-daily-leads-and-partners) |
+| [1729-find-followers-count](https://github.com/Alfiya-AT/LeetCode/tree/master/1729-find-followers-count) |
 | [1795-rearrange-products-table](https://github.com/Alfiya-AT/LeetCode/tree/master/1795-rearrange-products-table) |
 | [1890-the-latest-login-in-2020](https://github.com/Alfiya-AT/LeetCode/tree/master/1890-the-latest-login-in-2020) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Alfiya-AT/LeetCode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
