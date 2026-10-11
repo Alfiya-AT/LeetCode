@@ -5,17 +5,22 @@ class Solution(object):
         :rtype: int
         """
 
+        left=0
+        right=0
 
-        d={}
-        start=0
+        seen=[]
+
         maxLen=0
-        for end,val in enumerate(s):
-            if val in d and d[val]>=start:
-                start=d[val]+1
-            d[val]=end
-            
-            maxLen=max(maxLen,end-start+1)
-
+        while right<len(s):
+            if s[right] in seen:
+                while s[left]!=s[right]:
+                    seen.remove(s[left])
+                    left+=1
+                seen.remove(s[left])
+                left+=1
+            seen.append(s[right])
+            maxLen=max(maxLen,right-left+1)
+            right+=1
 
         return maxLen
 
@@ -25,6 +30,35 @@ class Solution(object):
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        # d={}
+        # start=0
+        # maxLen=0
+        # for end,val in enumerate(s):
+        #     if val in d and d[val]>=start:
+        #         start=d[val]+1
+        #     d[val]=end
+            
+        #     maxLen=max(maxLen,end-start+1)
+
+
+        # return maxLen
 
 
         # if len(s)<=0:
