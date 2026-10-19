@@ -133,6 +133,7 @@
 | [2215-find-the-difference-of-two-arrays](https://github.com/Alfiya-AT/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Alfiya-AT/LeetCode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Alfiya-AT/LeetCode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
+| [2574-left-and-right-sum-differences](https://github.com/Alfiya-AT/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2670-find-the-distinct-difference-array](https://github.com/Alfiya-AT/LeetCode/tree/master/2670-find-the-distinct-difference-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Alfiya-AT/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2788-split-strings-by-separator](https://github.com/Alfiya-AT/LeetCode/tree/master/2788-split-strings-by-separator) |
@@ -304,6 +305,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Alfiya-AT/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Alfiya-AT/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2574-left-and-right-sum-differences](https://github.com/Alfiya-AT/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 ## Database
 |  |
 | ------- |
