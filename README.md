@@ -77,6 +77,7 @@
 | [0187-repeated-dna-sequences](https://github.com/Alfiya-AT/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/Alfiya-AT/LeetCode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Alfiya-AT/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/Alfiya-AT/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0804-unique-morse-code-words](https://github.com/Alfiya-AT/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Alfiya-AT/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0904-fruit-into-baskets](https://github.com/Alfiya-AT/LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -111,6 +112,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Alfiya-AT/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Alfiya-AT/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Alfiya-AT/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0560-subarray-sum-equals-k](https://github.com/Alfiya-AT/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Alfiya-AT/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Alfiya-AT/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/Alfiya-AT/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
@@ -304,6 +306,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Alfiya-AT/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Alfiya-AT/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Alfiya-AT/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2574-left-and-right-sum-differences](https://github.com/Alfiya-AT/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 ## Database
