@@ -127,6 +127,7 @@
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Alfiya-AT/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Alfiya-AT/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Alfiya-AT/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1652-defuse-the-bomb](https://github.com/Alfiya-AT/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Alfiya-AT/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Alfiya-AT/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2032-two-out-of-three](https://github.com/Alfiya-AT/LeetCode/tree/master/2032-two-out-of-three) |
@@ -258,6 +259,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Alfiya-AT/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Alfiya-AT/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Alfiya-AT/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1652-defuse-the-bomb](https://github.com/Alfiya-AT/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Alfiya-AT/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Alfiya-AT/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Greedy
