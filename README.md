@@ -191,6 +191,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Alfiya-AT/LeetCode/tree/master/0258-add-digits) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Alfiya-AT/LeetCode/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Alfiya-AT/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Alfiya-AT/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -201,6 +202,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Alfiya-AT/LeetCode/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/Alfiya-AT/LeetCode/tree/master/0258-add-digits) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Alfiya-AT/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Alfiya-AT/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2413-smallest-even-multiple](https://github.com/Alfiya-AT/LeetCode/tree/master/2413-smallest-even-multiple) |
@@ -231,6 +233,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Alfiya-AT/LeetCode/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/Alfiya-AT/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Alfiya-AT/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Combinatorics
