@@ -203,6 +203,7 @@
 | ------- |
 | [0202-happy-number](https://github.com/Alfiya-AT/LeetCode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Alfiya-AT/LeetCode/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/Alfiya-AT/LeetCode/tree/master/0263-ugly-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Alfiya-AT/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Alfiya-AT/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2413-smallest-even-multiple](https://github.com/Alfiya-AT/LeetCode/tree/master/2413-smallest-even-multiple) |
