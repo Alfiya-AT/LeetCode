@@ -109,6 +109,7 @@
 | [0056-merge-intervals](https://github.com/Alfiya-AT/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Alfiya-AT/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Alfiya-AT/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/Alfiya-AT/LeetCode/tree/master/0090-subsets-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Alfiya-AT/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Alfiya-AT/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Alfiya-AT/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -218,6 +219,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/Alfiya-AT/LeetCode/tree/master/0090-subsets-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Alfiya-AT/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0287-find-the-duplicate-number](https://github.com/Alfiya-AT/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [2032-two-out-of-three](https://github.com/Alfiya-AT/LeetCode/tree/master/2032-two-out-of-three) |
@@ -359,4 +361,8 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Alfiya-AT/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/Alfiya-AT/LeetCode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
