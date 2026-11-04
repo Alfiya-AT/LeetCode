@@ -106,6 +106,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Alfiya-AT/LeetCode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Alfiya-AT/LeetCode/tree/master/0015-3sum) |
+| [0039-combination-sum](https://github.com/Alfiya-AT/LeetCode/tree/master/0039-combination-sum) |
 | [0056-merge-intervals](https://github.com/Alfiya-AT/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Alfiya-AT/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Alfiya-AT/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -364,5 +365,6 @@
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Alfiya-AT/LeetCode/tree/master/0039-combination-sum) |
 | [0090-subsets-ii](https://github.com/Alfiya-AT/LeetCode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
