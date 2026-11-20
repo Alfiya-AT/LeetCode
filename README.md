@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Alfiya-AT/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/Alfiya-AT/LeetCode/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/Alfiya-AT/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Alfiya-AT/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/Alfiya-AT/LeetCode/tree/master/0187-repeated-dna-sequences) |
@@ -247,6 +248,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Alfiya-AT/LeetCode/tree/master/0022-generate-parentheses) |
 | [0746-min-cost-climbing-stairs](https://github.com/Alfiya-AT/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 ## Counting Sort
 |  |
@@ -366,6 +368,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Alfiya-AT/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Alfiya-AT/LeetCode/tree/master/0039-combination-sum) |
 | [0090-subsets-ii](https://github.com/Alfiya-AT/LeetCode/tree/master/0090-subsets-ii) |
 ## Tree
@@ -380,4 +383,8 @@
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Alfiya-AT/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Alfiya-AT/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
