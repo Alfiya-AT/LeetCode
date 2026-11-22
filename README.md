@@ -300,6 +300,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Alfiya-AT/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Alfiya-AT/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/Alfiya-AT/LeetCode/tree/master/0206-reverse-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Alfiya-AT/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -387,4 +388,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Alfiya-AT/LeetCode/tree/master/0022-generate-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Alfiya-AT/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
