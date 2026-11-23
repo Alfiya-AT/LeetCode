@@ -380,16 +380,19 @@
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Alfiya-AT/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Alfiya-AT/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Alfiya-AT/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Alfiya-AT/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Alfiya-AT/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Alfiya-AT/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Alfiya-AT/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Alfiya-AT/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Alfiya-AT/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Bracket Sequences
 |  |
@@ -407,9 +410,15 @@
 ## Binary Lifting
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Alfiya-AT/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Alfiya-AT/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Alfiya-AT/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Alfiya-AT/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Alfiya-AT/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
