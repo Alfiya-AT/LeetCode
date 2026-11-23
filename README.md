@@ -380,14 +380,17 @@
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Alfiya-AT/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Alfiya-AT/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Alfiya-AT/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Alfiya-AT/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Alfiya-AT/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Alfiya-AT/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -401,4 +404,12 @@
 |  |
 | ------- |
 | [2487-remove-nodes-from-linked-list](https://github.com/Alfiya-AT/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Alfiya-AT/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Alfiya-AT/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
