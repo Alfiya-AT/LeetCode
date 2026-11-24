@@ -105,6 +105,7 @@
 | [2965-find-missing-and-repeated-values](https://github.com/Alfiya-AT/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Alfiya-AT/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Alfiya-AT/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Alfiya-AT/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Alfiya-AT/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3692-majority-frequency-characters](https://github.com/Alfiya-AT/LeetCode/tree/master/3692-majority-frequency-characters) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Alfiya-AT/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -160,6 +161,7 @@
 | [2965-find-missing-and-repeated-values](https://github.com/Alfiya-AT/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/Alfiya-AT/LeetCode/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3151-special-array-i](https://github.com/Alfiya-AT/LeetCode/tree/master/3151-special-array-i) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Alfiya-AT/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Alfiya-AT/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Alfiya-AT/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Alfiya-AT/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -241,6 +243,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Alfiya-AT/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [2032-two-out-of-three](https://github.com/Alfiya-AT/LeetCode/tree/master/2032-two-out-of-three) |
 | [2351-first-letter-to-appear-twice](https://github.com/Alfiya-AT/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Alfiya-AT/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Counting
 |  |
 | ------- |
