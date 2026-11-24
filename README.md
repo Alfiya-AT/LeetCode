@@ -94,6 +94,7 @@
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Alfiya-AT/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2325-decode-the-message](https://github.com/Alfiya-AT/LeetCode/tree/master/2325-decode-the-message) |
 | [2351-first-letter-to-appear-twice](https://github.com/Alfiya-AT/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
+| [2404-most-frequent-even-element](https://github.com/Alfiya-AT/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2670-find-the-distinct-difference-array](https://github.com/Alfiya-AT/LeetCode/tree/master/2670-find-the-distinct-difference-array) |
 | [2716-minimize-string-length](https://github.com/Alfiya-AT/LeetCode/tree/master/2716-minimize-string-length) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Alfiya-AT/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -143,6 +144,7 @@
 | [2185-counting-words-with-a-given-prefix](https://github.com/Alfiya-AT/LeetCode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Alfiya-AT/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Alfiya-AT/LeetCode/tree/master/2373-largest-local-values-in-a-matrix) |
+| [2404-most-frequent-even-element](https://github.com/Alfiya-AT/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Alfiya-AT/LeetCode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Alfiya-AT/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2670-find-the-distinct-difference-array](https://github.com/Alfiya-AT/LeetCode/tree/master/2670-find-the-distinct-difference-array) |
@@ -240,6 +242,7 @@
 | [1704-determine-if-string-halves-are-alike](https://github.com/Alfiya-AT/LeetCode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Alfiya-AT/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/Alfiya-AT/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
+| [2404-most-frequent-even-element](https://github.com/Alfiya-AT/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [3692-majority-frequency-characters](https://github.com/Alfiya-AT/LeetCode/tree/master/3692-majority-frequency-characters) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Alfiya-AT/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Number Theory
