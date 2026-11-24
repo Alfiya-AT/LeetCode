@@ -160,6 +160,7 @@
 | [2965-find-missing-and-repeated-values](https://github.com/Alfiya-AT/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/Alfiya-AT/LeetCode/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3151-special-array-i](https://github.com/Alfiya-AT/LeetCode/tree/master/3151-special-array-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Alfiya-AT/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Alfiya-AT/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Alfiya-AT/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/Alfiya-AT/LeetCode/tree/master/3731-find-missing-elements) |
@@ -227,6 +228,7 @@
 | [2769-find-the-maximum-achievable-number](https://github.com/Alfiya-AT/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/Alfiya-AT/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Alfiya-AT/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Alfiya-AT/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Alfiya-AT/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Alfiya-AT/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Alfiya-AT/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -256,6 +258,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/Alfiya-AT/LeetCode/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/Alfiya-AT/LeetCode/tree/master/2413-smallest-even-multiple) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Alfiya-AT/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Alfiya-AT/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Combinatorics
 |  |
@@ -274,6 +277,7 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Alfiya-AT/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Alfiya-AT/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Sliding Window
 |  |
 | ------- |
@@ -287,6 +291,7 @@
 | [1652-defuse-the-bomb](https://github.com/Alfiya-AT/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Alfiya-AT/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Alfiya-AT/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Alfiya-AT/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Greedy
 |  |
 | ------- |
